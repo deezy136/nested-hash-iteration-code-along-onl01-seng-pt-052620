@@ -15,5 +15,8 @@ require 'pry'
   # }
   
 def remove_strawberry(contacts)
-
+  contacts.each.with_index(1) do |  contact_info|  
+    
+    
+  end 
 end
